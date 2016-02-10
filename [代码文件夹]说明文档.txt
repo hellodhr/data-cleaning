@@ -1,0 +1,14 @@
+本文件夹下属文件(8个)：
+[1]data_rinse.c
+[2]fun1_dataimport_keyboard_module.c
+[3]fun1_dataimport_text_module.c
+[4]fun2_pre_type_conversion.c
+[5]fun2_dataprocess_null.c
+[6]fun3_dataoutput_text.c
+[7]range.c
+[8][代码]说明文档.txt
+
+因为时间缘故，文件[7]"range.c"文件没加入到程序中来。
+这个文件是用来进行范围数据的检测与剔除。
+
+代码模块介绍在文件夹“数据清洗项目学习报告文档”下的“项目阶段报告”中。
